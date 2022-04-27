@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Guidos SKINBASE Repository</title>
+    Guidos SKINBASE Repository
   </head>
   <body>
     <h1>Index of /</h1>
